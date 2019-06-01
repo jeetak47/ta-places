@@ -1,4 +1,4 @@
-package com.ta.places.places;
+package com.ta.places;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
